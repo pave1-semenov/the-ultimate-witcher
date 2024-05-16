@@ -1,7 +1,7 @@
 {
-  "id": "the-ultimate-witcher",
+  "id": "the-ultimate-witcher-v11",
   "title": "Ультимативный Сборник По Ведьмаку",
-  "description": "<p>Здесь ты найдёшь всё, что тебе когда либо требовалось для комфортной игры в Ведьмака, и даже больше.</p><p>Заходи на наш дискорд-канал <a href=\"https://discord.gg/scgKeUhNet\">https://discord.gg/scgKeUhNet</a></p>",
+  "description": "Foundry 11 support",
   "authors": [
     {
       "name": "Daekatriel",
@@ -189,7 +189,7 @@
       }
     ]
   },
-  "url": "https://github.com/DKtric3L/the-ultimate-witcher.git",
-  "manifest": "https://raw.githubusercontent.com/DKtric3L/the-ultimate-witcher/master/module.json",
+  "url": "https://github.com/pave1-semenov/the-ultimate-witcher.git",
+  "manifest": "https://raw.githubusercontent.com/pave1-semenov/the-ultimate-witcher/main/module.json",
   "download": "https://github.com/DKtric3L/the-ultimate-witcher/archive/refs/heads/main.zip"
 }
