@@ -10,7 +10,7 @@
       "flags": {}
     }
   ],
-  "version": "1.2.1",
+  "version": "1.2.2",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
@@ -191,5 +191,5 @@
   },
   "url": "https://github.com/pave1-semenov/the-ultimate-witcher.git",
   "manifest": "https://raw.githubusercontent.com/pave1-semenov/the-ultimate-witcher/main/module.json",
-  "download": "https://github.com/DKtric3L/the-ultimate-witcher/archive/refs/heads/main.zip"
+  "download": "https://github.com/pave1-semenov/the-ultimate-witcher/archive/refs/tags/v0.1.zip"
 }
