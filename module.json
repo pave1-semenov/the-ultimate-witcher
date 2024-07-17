@@ -3,10 +3,10 @@
   "title": "Ультимативный Сборник По Ведьмаку",
   "description": "Foundry 12 support",
   "authors": [],
-  "version": "1.2.3",
+  "version": "1.2.4",
   "compatibility": {
     "minimum": "10",
-    "verified": "10",
+    "verified": "11",
     "maximum": "12"
   },
   "packs": [
