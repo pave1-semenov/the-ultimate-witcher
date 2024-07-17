@@ -1,7 +1,7 @@
 {
   "id": "the-ultimate-witcher-v11",
   "title": "Ультимативный Сборник По Ведьмаку",
-  "description": "Foundry 11 support",
+  "description": "Foundry 12 support",
   "authors": [
     {
       "name": "Daekatriel",
@@ -14,7 +14,7 @@
   "compatibility": {
     "minimum": "10",
     "verified": "10",
-    "maximum": "11"
+    "maximum": "12"
   },
   "packs": [
     {
