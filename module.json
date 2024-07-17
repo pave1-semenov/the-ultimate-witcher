@@ -2,14 +2,7 @@
   "id": "the-ultimate-witcher-v12",
   "title": "Ультимативный Сборник По Ведьмаку",
   "description": "Foundry 12 support",
-  "authors": [
-    {
-      "name": "Daekatriel",
-      "discord": "Daekatriel#8765",
-      "url": "https://boosty.to/daekatrielmalinaproject",
-      "flags": {}
-    }
-  ],
+  "authors": [],
   "version": "1.2.3",
   "compatibility": {
     "minimum": "10",
@@ -191,5 +184,5 @@
   },
   "url": "https://github.com/pave1-semenov/the-ultimate-witcher.git",
   "manifest": "https://raw.githubusercontent.com/pave1-semenov/the-ultimate-witcher/main/module.json",
-  "download": "https://github.com/pave1-semenov/the-ultimate-witcher/archive/refs/tags/v0.1.zip"
+  "download": "https://github.com/pave1-semenov/the-ultimate-witcher/archive/refs/tags/v0.2.zip"
 }
